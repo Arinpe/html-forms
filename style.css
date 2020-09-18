@@ -1,6 +1,22 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
 }
 
+body {
+	font-size: 12px;
+}
+
+.parent {
+	display: flex;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+}
+
+.side--link {
+	flex: 1 1 1;
+}
