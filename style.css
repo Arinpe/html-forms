@@ -58,3 +58,22 @@ ul li {
 	width: 20px;
 	height: 20px;
 }
+
+header {
+	text-align: center;
+	padding: 20px 30px;
+}
+
+header {
+	text-align: center;
+}
+.logo {
+	height: 30px;
+margin-bottom: 12px;
+}
+
+header a {
+	text-decoration: none;
+}
+
+
