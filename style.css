@@ -86,4 +86,19 @@ header a {
 	width: 25%;
 	height: 80%;
 	border: 1px solid #c7c7c7;
+	display: flex;
+	flex-direction: column;
+	justify-items: space-between;
+	padding: 20px;
+}
+
+.form a {
+	display: block;
+}
+
+.form h2,
+.form-para,
+a {
+	margin-top: 10px;
+	text-align: center;
 }
