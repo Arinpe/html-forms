@@ -57,6 +57,7 @@ ul li {
 .icon {
 	width: 20px;
 	height: 20px;
+	margin-right: 4px;
 }
 
 header {
@@ -69,11 +70,20 @@ header {
 }
 .logo {
 	height: 30px;
-margin-bottom: 12px;
+	margin-bottom: 12px;
+	background-color: #eceef1;
 }
 
 header a {
 	text-decoration: none;
+	font-size: 19px;
+	color: #8d9096;
+	margin-left: 5px;
 }
 
-
+.form {
+	background-color: #ffff;
+	width: 25%;
+	height: 80%;
+	border: 1px solid #c7c7c7;
+}
