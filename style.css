@@ -5,6 +5,7 @@
 }
 body {
 	font-family: 'Roboto', sans-serif;
+	color: #4c4c4c;
 }
 
 .parent {
@@ -67,6 +68,8 @@ header {
 
 header {
 	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 20px;
 }
 .logo {
 	height: 30px;
@@ -88,17 +91,72 @@ header a {
 	border: 1px solid #c7c7c7;
 	display: flex;
 	flex-direction: column;
-	justify-items: space-between;
-	padding: 20px;
+	padding: 30px;
+	flex-direction: column;
 }
 
 .form a {
 	display: block;
 }
 
-.form h2,
-.form-para,
-a {
-	margin-top: 10px;
+
+.form a {
+	text-decoration: none;
+	font-size: 12px;
+	margin-top: 8px;
+	
+}
+
+.side--link-link, .form a {
+	color: #0077C5;
+}
+
+.form button {
+	background-color: #0077c5;
+	color: #ffffff;
+	padding: 0 20px;
+	font-size: 1.125em;
+	font-weight: normal;
+	border: 1px solid #4c4c4c;
+	outline: none;
+	border-radius: 4px;
 	text-align: center;
+	 margin: 20px 0;
+	 padding: 10px 20px;
+}
+
+.fa-lock {
+	margin-right: 5px;
+}
+
+.form-input {
+	width: 95%;
+	margin-bottom: 20px;
+	border-radius:    4px;
+	margin-top: 5px;
+	align-self: center;
+}
+input {
+	width: 100%;
+	padding: 5px 10px;
+}  
+
+.form-title {
+	font-size: 24px;
+	line-height: 1.1;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+
+.form-para {
+	font-size: 14px;
+}
+
+.learn-more-link {
+	display: block;
+	text-align: center;
+}
+
+.learn-more {
+	margin-bottom: 25px;
 }
