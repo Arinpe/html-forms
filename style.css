@@ -123,6 +123,7 @@ footer a {
 	text-align: center;
 	margin: 20px 0;
 	padding: 10px 20px;
+	cursor: pointer;
 }
 
 .fa-lock {
@@ -202,23 +203,48 @@ footer a:hover {
 	margin-right: 15px;
 }
 
-.input:focus {
-	border-color: aqua;
+.form input {
+	outline: none;
 }
 
-.form-pass  {
+.form input:focus {
+	border: 1px solid dodgerblue;
+	box-shadow: 0 0 8px dodgerblue;
+}
+
+.form-pass {
 	position: relative;
 }
 
 .form-pass input {
-	padding-right:40px ;
+	padding-right: 40px;
 }
 
 .iconify {
 	position: absolute;
 	right: 10px;
 	top: 35px;
-} 
+}
 
+.form--terms {
+	margin-top: 20px;
+	font-style: italic;
+	font-size: 13px;
+	text-align: center;
+}
+.form--terms a,
+.form--footer a {
+	display: inline;
+}
 
+.form--footer {
+	text-align: center;
+	background-color: #eceef1;
+	width: 377px;
+	padding: 16px;
+	margin: 30px -30px -30px -29px;
+}
 
+.form--footer p {
+	font-size: 12px;
+}
