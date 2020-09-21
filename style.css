@@ -75,7 +75,8 @@ header {
 	margin-bottom: 20px;
 	background-color: #eceef1;
 	text-align: center;
-	margin-left: 55px;
+	margin-left: 69px;
+	cursor: pointer;
 }
 
 header a {
