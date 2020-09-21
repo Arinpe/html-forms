@@ -9,13 +9,44 @@ body {
 
 .parent {
 	display: flex;
-}
-
-.form {
-	display: flex;
 	flex-direction: column;
+	align-items: center;
+	padding: 10px;
+	height: 100vh;
+	background-color: #eceef1;
+	width: 100%;
 }
 
 .side--link {
-	flex: 1 1 1;
+	align-self: flex-end;
+	display: flex;
+	margin-right: 10px;
+	align-items: center;
+}
+
+.sign_in {
+	padding: 10px 20px;
+	background-color: #0077c5;
+	border-radius: 4px;
+	border: 1px solid #4c4c4c;
+	color: #ffffff;
+	font-size: 15px;
+	margin-left: 5px;
+	cursor: pointer;
+}
+
+.sign_in i {
+	margin-right: 5px;
+}
+
+.side--link-text,
+.side--link-link {
+	font-size: 14px;
+}
+.side--link-link {
+	text-decoration: none;
+}
+
+.side--link-text {
+	margin-right: 8px;
 }
