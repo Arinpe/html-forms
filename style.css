@@ -202,6 +202,23 @@ footer a:hover {
 	margin-right: 15px;
 }
 
-.form input:focus {
+.input:focus {
 	border-color: aqua;
 }
+
+.form-pass  {
+	position: relative;
+}
+
+.form-pass input {
+	padding-right:40px ;
+}
+
+.iconify {
+	position: absolute;
+	right: 10px;
+	top: 35px;
+} 
+
+
+

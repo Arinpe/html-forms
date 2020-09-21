@@ -8,6 +8,7 @@
 			href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
 			rel="stylesheet"
 		/>
+		<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 		<link
 			rel="stylesheet"
 			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -78,23 +79,16 @@
 					<input type="tel" id="number" name="number" />
 					<span>Standard call, messaging or data rates may apply.</span>
 				</div>
-				<div class="form-input">
+				<div class="form-input form-pass"> 
 					<label for="password">password</label>
-					<input type="password" name="password" id="password" />
+					<input type="password" class="input" name="password" id="password" />
+					<span class="iconify" data-icon="la:lock-open-solid" data-inline="false"></span>
 				</div>
 
 				<button type="submit"><i class="fa fa-lock"></i>create account</button>
 
 				<div class="form--footer">
-					<p class="footer-para">
-						By clicking Create account, you agree to our
-					</p>
-					<div class="form-footer-wrapper">
-						<a href="#" class="form--footer-link">Terms</a>and have read and
-						acknowledge our<a href="#" class="form--footer-link"
-							>privacy Statement</a
-						>
-					</div>
+					<span id="ius-terms-of-use-text">By clicking <span id="ius-terms-of-use-btn-name">Create account</span>, you agree to our <br> <a id="ius-link-terms-of-use" href="https://www.mint.com/terms" target="_blank">Terms</a><span id="ius-sign-up-consent-and">&nbsp;and have read and acknowledge our&nbsp;</span><a id="ius-sign-up-privacy-statement-link" href="https://security.intuit.com/privacy" target="_blank">Privacy Statement</a></span>
 				</div>
 			</form>
 
