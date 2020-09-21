@@ -51,14 +51,10 @@ body {
 	margin-right: 8px;
 }
 ul li {
-    display: inline;
+	display: inline;
 }
 
-header h2 {
-    width: 118px;
-    height: 35px;
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhE
-}
-
-
+.icon {
+	width: 20px;
+	height: 20px;
 }
