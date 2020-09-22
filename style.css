@@ -71,12 +71,14 @@ header {
 	margin-bottom: 20px;
 }
 .logo {
-	height: 30px;
 	margin-bottom: 20px;
-	background-color: #eceef1;
-	text-align: center;
-	margin-left: 69px;
 	cursor: pointer;
+	display: flex;
+	justify-content: center;
+}
+
+.logo img {
+	text-align: center;
 }
 
 header a {
