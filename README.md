@@ -28,10 +28,9 @@ This is an html form in which we were tasked to clone a sign up and sign in form
 
 👤 **Helcio Andre**
 
-- GitHub: [@helciodev](https://github.com/helciodev)]
+- GitHub: [@helciodev](https://github.com/helciodev)
 - Twitter: [@helcio_bruno]
- (https://twitter.com/helcio_bruno
-)
+ (https://twitter.com/helcio_bruno)
 
 ## 🤝 Contributing
 
