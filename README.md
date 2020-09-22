@@ -18,10 +18,6 @@ This is an html form in which we were tasked to clone a sign up and sign in form
 
 [Live Demo Link](https://rawcdn.githack.com/Arinpe/html-forms/cffd7badb8a5732a55731aea93c673d40f0fef81/index.html)
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 ## Authors
 
