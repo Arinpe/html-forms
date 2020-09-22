@@ -16,7 +16,7 @@ This is an html form in which we were tasked to clone a sign up and sign in form
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Arinpe/html-forms/cffd7badb8a5732a55731aea93c673d40f0fef81/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Arinpe/html-forms/5883a1f190eaf2997846eab84570d05c222c20ca/index.html)
 
 
 ## Authors
