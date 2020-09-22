@@ -4,19 +4,20 @@
 
 > html-form
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://github.com/Arinpe/html-forms/blob/feature-branch/images/html-form-sceenshot.png
+)
 
-Additional description about the project and its features.
+This is an html form in which we were tasked to clone a sign up and sign in form from Intuit. In this project we made use of flex box mainly as our front end technology. 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- For Icons we used font awesome icons and Iconify icons
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/Arinpe/html-forms/cffd7badb8a5732a55731aea93c673d40f0fef81/index.html)
 
 ## Getting Started
 
@@ -39,17 +40,19 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Adetola Adesuyi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@https://github.com/Arinpe]([@https://github.com/Arinpe)
+- Twitter: [@_detola_](https://twitter.com/_detola_)
 
-👤 **Author2**
+👤 **Helcio Andre**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [https://github.com/helciodev
+](https://github.com/helciodev
+)
+- Twitter: [https://twitter.com/helcio_bruno
+](https://twitter.com/helcio_bruno
+)
 
 ## 🤝 Contributing
 
