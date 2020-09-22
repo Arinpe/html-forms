@@ -27,14 +27,14 @@ This is an html form in which we were tasked to clone a sign up and sign in form
 
 👤 **Adetola Adesuyi**
 
-- GitHub: [@Arinpe](@https://github.com/Arinpe)
+- GitHub: [@Arinpe](https://github.com/Arinpe)
 - Twitter: [@_detola_](https://twitter.com/_detola_)
 
 👤 **Helcio Andre**
 
-- GitHub: [@helciodev](https://github.com/helciodev)](@helciodev)
+- GitHub: [@helciodev](https://github.com/helciodev)]
 - Twitter: [@helcio_bruno]
- [https://twitter.com/helcio_bruno
+ (https://twitter.com/helcio_bruno
 )
 
 ## 🤝 Contributing
