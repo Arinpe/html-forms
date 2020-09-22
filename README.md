@@ -2,9 +2,7 @@
 
 # HTML FORMS
 
-
-![screenshot](https://github.com/Arinpe/html-forms/blob/feature-branch/images/html-form-sceenshot.png
-)
+![screenshot](https://github.com/Arinpe/html-forms/blob/feature-branch/images/html-form-sceenshot.png)
 
 This is an html form in which we were tasked to clone a sign up and sign in form from Intuit. In this project we made use of flex box mainly as our front end technology.In this project, we created a form with three different kind of inputs; the E-mail input, Password input and the Telephone input. We also created a submit button as well as a create account button.
 
@@ -18,15 +16,14 @@ This is an html form in which we were tasked to clone a sign up and sign in form
 
 [Live Demo Link](https://rawcdn.githack.com/Arinpe/html-forms/5883a1f190eaf2997846eab84570d05c222c20ca/index.html)
 
-
 ## Authors
 
-👤 **Adetola Adesuyi**
+😊 **Adetola Adesuyi**
 
 - GitHub: [@Arinpe](https://github.com/Arinpe)
 - Twitter: [@_detola_](https://twitter.com/_detola_)
 
-👤 **Helcio Andre**
+😎 **Helcio Andre**
 
 - GitHub: [@helciodev](https://github.com/helciodev)
 - Twitter: [@helcio_bruno](https://twitter.com/helcio_bruno)
