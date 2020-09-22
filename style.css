@@ -236,6 +236,7 @@ footer a:hover {
 	font-style: italic;
 	font-size: 13px;
 	text-align: center;
+	line-height: 1.8;
 }
 .form--terms a,
 .form--footer a {
