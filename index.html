@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Intuit Account sign Up Form</title>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+			rel="stylesheet"
+		/>
+
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+		/>
+		<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+		/>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<section class="parent">
+			<div class="side--link">
+				<div class="side--link-text">
+					<p class="side-para">Already have an Intuit account?</p>
+					<a href="#" class="side--link-link">
+						I forgot my user ID or Password
+					</a>
+				</div>
+
+				<div>
+					<button class="sign_in" type="submit"
+						<i class="fa fa-lock"></i>
+						Sign in
+					</button>
+				</div>
+			</div>
+			<header>
+				<div class="logo">
+					<img src="./images/mainlogo.png" alt="Intuit logo" />
+				</div>
+				<ul>
+					<li>
+						<a href="#">
+							<img
+								class="icon"
+								src="https://lh3.googleusercontent.com/kAoKkNJy81qdxeSexsfsfH6DEz114px1qx9zg0Hj3RoonLXxXRBbEp0xIZVVElgihQ"
+								alt=""
+							/>
+							turbotax
+						</a>
+					</li>
+					<li>
+						<a href="#">
+							<img
+								class="icon"
+								src="https://www.forecast.app/hubfs/quickbooks.svg"
+								alt=""
+							/>
+							quickbooks
+						</a>
+					</li>
+
+					<li>
+						<a href="#">
+							<img
+								class="icon"
+								src="http://getdrawings.com/free-icon/quicken-icon-73.png"
+								alt=""
+							/>
+							Mint
+						</a>
+					</li>
+				</ul>
+			</header>
+			<form class="form">
+				<h2 class="form-title">Create an Intuit account</h2>
+				<div class="form-para">One account for everything including Mint</div>
+				<div class="learn-more">
+					<a href="#" class="learn-more-link">learn more</a>
+				</div>
+				<div class="form-input">
+					<label for="email">email address</label>
+					<input type="email" id="email" name="email" />
+				</div>
+				<div class="form-input">
+					<label for="number">phone (recommended)</label>
+					<input type="tel" id="number" name="number" />
+					<span>Standard call, messaging or data rates may apply.</span>
+				</div>
+				<div class="form-input form-pass">
+					<label for="password">password</label>
+					<input type="password" class="input" name="password" id="password" />
+					<span
+						class="iconify locker-icon"
+						data-icon="la:lock-open-solid"
+						data-inline="true"
+					></span>
+				</div>
+
+				<button type="submit">
+					<i class="fa fa-lock"></i>
+					create account
+				</button>
+
+				<div class="form--terms">
+					<p>By clicking Create account, you agree to our</p>
+					<p>
+						<a href="">Terms</a>
+						and have read and acknowledge our
+						<a href="">privacy Statement</a>
+					</p>
+				</div>
+
+				<div class="form--footer">
+					<p>
+						Invisible reCAPTCHA by Google and
+						<a href="#">Privacy Policy</a>
+						<a href="">Terms of Use</a>
+						.
+					</p>
+				</div>
+			</form>
+
+			<footer class="footer">
+				<ul class="footer--links">
+					<li class="footer--link-element">
+						<a href="#" class="footer--link-anchor">legal</a>
+					</li>
+					<li class="footer--link-element">
+						<a href="#" class="footer--link-anchor">privacy</a>
+					</li>
+					<li class="footer--link-element">
+						<a href="#" class="footer--link-anchor">security</a>
+					</li>
+				</ul>
+				<div>
+					© 2020 Intuit, Inc. All rights reserved. Intuit, QuickBooks, QB,
+					TurboTax, ProConnect and Mint are registered
+				</div>
+				<div>trademarks of Intuit Inc.</div>
+				<div>
+					Terms and conditions, features, support, pricing, and service options
+					subject to change without notice
+				</div>
+			</footer>
+		</section>
+	</body>
+</html>
